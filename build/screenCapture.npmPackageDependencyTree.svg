@@ -17,7 +17,7 @@
 <tspan x="10" y="234">  │ │ ├─┬ no-case@2.3.1 </tspan>
 <tspan x="10" y="250">  │ │ │ └── lower-case@1.1.4 </tspan>
 <tspan x="10" y="266">  │ │ └── upper-case@1.1.3 </tspan>
-<tspan x="10" y="282">  │ ├─┬ clean-css@4.0.11 </tspan>
+<tspan x="10" y="282">  │ ├─┬ clean-css@4.0.12 </tspan>
 <tspan x="10" y="298">  │ │ └── source-map@0.5.6 </tspan>
 <tspan x="10" y="314">  │ ├─┬ commander@2.9.0 </tspan>
 <tspan x="10" y="330">  │ │ └── graceful-readlink@1.0.1 </tspan>
