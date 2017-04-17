@@ -1,7 +1,7 @@
 # test coverage for  [grunt-contrib-htmlmin (v2.3.0)](https://github.com/gruntjs/grunt-contrib-htmlmin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-htmlmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-htmlmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-htmlmin.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-htmlmin)
 #### Minify HTML
 
-[![NPM](https://nodei.co/npm/grunt-contrib-htmlmin.png?downloads=true)](https://www.npmjs.com/package/grunt-contrib-htmlmin)
+[![NPM](https://nodei.co/npm/grunt-contrib-htmlmin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-contrib-htmlmin)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-grunt-contrib-htmlmin/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-htmlmin/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-grunt-contrib-htmlmin%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-contrib-htmlmin/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-grunt-contrib-htmlmin%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-contrib-htmlmin/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/test-report.html](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-grunt-contrib-htmlmin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-contrib-htmlmin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-contrib-htmlmin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-contrib-htmlmin/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-grunt-contrib-htmlmin/build/screenCapture.npmPackageListing.svg)
 
@@ -78,37 +84,29 @@
     "main": "tasks/htmlmin.js",
     "maintainers": [
         {
-            "name": "cowboy",
-            "email": "cowboy@rj3.net"
+            "name": "cowboy"
         },
         {
-            "name": "jmeas",
-            "email": "jellyes2@gmail.com"
+            "name": "jmeas"
         },
         {
-            "name": "shama",
-            "email": "kyle@dontkry.com"
+            "name": "shama"
         },
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "tkellen",
-            "email": "tyler@sleekcode.net"
+            "name": "tkellen"
         },
         {
-            "name": "vladikoff",
-            "email": "vlad@vladikoff.com"
+            "name": "vladikoff"
         },
         {
-            "name": "xhmikosr",
-            "email": "xhmikosr@gmail.com"
+            "name": "xhmikosr"
         }
     ],
     "name": "grunt-contrib-htmlmin",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/gruntjs/grunt-contrib-htmlmin.git"
