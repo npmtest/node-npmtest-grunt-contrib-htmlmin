@@ -1,4 +1,7 @@
-# test coverage for  [grunt-contrib-htmlmin (v2.3.0)](https://github.com/gruntjs/grunt-contrib-htmlmin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-htmlmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-htmlmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-htmlmin.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-htmlmin)
+# npmtest-grunt-contrib-htmlmin
+
+#### basic test coverage for  [grunt-contrib-htmlmin (v2.3.0)](https://github.com/gruntjs/grunt-contrib-htmlmin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-htmlmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-htmlmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-htmlmin.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-htmlmin)
+
 #### Minify HTML
 
 [![NPM](https://nodei.co/npm/grunt-contrib-htmlmin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-contrib-htmlmin)
